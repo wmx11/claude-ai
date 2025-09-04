@@ -9,6 +9,7 @@
 - Do not run database migrations like `npx prisma migrate dev --name="{{name}}"`.
 - You can only run `npx prisma generate` instead of a migration.
 - If the application is going to be used inside the EU, adhere to the GDPR compliance for data handling.
+- Create research and other .md files the inside .claude folder.
 
 # Coding rules
 
